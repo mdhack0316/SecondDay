@@ -1,6 +1,0 @@
-[submodule "myapache"]
-	path = myapache
-	url = https://github.com/mdhack0316/myapache
-[submodule "day3"]
-	path = day3
-	url = https://github.com/mdhack0316/day3salesforce
